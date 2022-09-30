@@ -16,7 +16,7 @@ I'm a Software Engineering student at AltSchool Africa with special interests in
 ---
 
 ### **Skills**
-![HTML}(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoryokirie&show_icons=true&include_all_commits=true&hide_border=true" alt="Victory's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoryokirie&langs_count=8&layout=compact&hide_border=true" alt="Victory's GitHub stats" /> |
 | ------------- | ------------- |
