@@ -7,7 +7,7 @@ I'm an AWS Certified Cloud Practitioner.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at ALX AWS Solutions Architect-Associate course. I will be taking the SAA-CO3 exam in a 4 months
+- 💡 Fun fact: I'm currently studying at ALX AWS Solutions Architect-Associate course. I will be taking the SAA-CO3 exam in 4 months
 - 🌱 I have a good grasp of basic to intermediate Linux and basic Cloud Concepts
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud/DevOps,  (Intern or Junior level).
